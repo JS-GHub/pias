@@ -1,6 +1,6 @@
 package pias.app;
 
-import pias.*;
+import pias.EstablishmentManager;
 import pt.tecnico.uilib.Dialog;
 import pt.tecnico.uilib.menus.Menu;
 

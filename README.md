@@ -40,7 +40,7 @@ public class StyleTest {
      * <Second line of a permanent comment>
      */
     while (t.length() != 0 && isWhitespace(t.charAt(0))) {
-      t= t.substring(1);
+      t = t.substring(1);
     }
 
     /** Permanent comment with one line */
